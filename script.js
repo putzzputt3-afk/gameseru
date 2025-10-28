@@ -1,5 +1,5 @@
 // Ganti dengan link RAW GitHub kamu sendiri
-const DB_URL = "https://raw.githubusercontent.com/PutzzXD12/kuis-nilai/refs/heads/main/pw_reset.json";
+const DB_URL = "https://raw.githubusercontent.com/putzzputt3-afk/gameseru/refs/heads/main/db_pw.json";
 
 async function checkPassword() {
   const passwordInput = document.getElementById("password").value;
