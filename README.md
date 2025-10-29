@@ -1,2 +1,0 @@
-# gameseru
-apaaja
